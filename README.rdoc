@@ -44,10 +44,5 @@ WeCenter 问答系统是一套开源的社交化问答软件系统。作为国�
 
 升级过程非常简单, 覆盖所有文件之后运行 http://您的域名/index.php?/upgrade/ 按照提示操作即可
 
-== 技术支持
 
-当您在安装、升级、日常使用当中遇到疑难，请您到以下站点获取技术支持。
-
-* 支持：http://www.wecenter.com/support/
-* 讨论区：http://www.wecenter.com
 
